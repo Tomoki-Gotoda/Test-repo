@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="DataManagement/DataManagement.csproj" Id="cc27e04c-c453-4096-8aaa-35097f2b68c2" />
   <Project Path="HireMaster/HireMaster.csproj" />
 </Solution>
